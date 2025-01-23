@@ -132,10 +132,10 @@ The converter's Simulink model is adapted for physical implementation using oper
 
 ### 5.2 Electrical Schematic
 A circuit with four operational amplifiers is designed for the implementation.
-
+![image](https://github.com/user-attachments/assets/85a7424a-9642-4139-ad6a-706cbf45d1ed)
 ### 5.3 Simulink Model
 A simulation model is developed to validate the design.
-
+![image](https://github.com/user-attachments/assets/f7fed847-799a-47df-885d-66169f376467)
 ---
 
 ## 6. Applications: Stabilized DC Voltage Source
